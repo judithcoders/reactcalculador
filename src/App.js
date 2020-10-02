@@ -1,5 +1,5 @@
 import React from 'react';
-import "./tailwind.output.css";
+import '../src/tailwind.output.css'
 import Operacion from './components/Operaciones';
 
 function App() {

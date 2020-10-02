@@ -5,19 +5,23 @@
   "main": "index.js",
   "dependencies": {
     "chokidar-cli": "^2.1.0",
+    "node-sass": "^4.14.1",
     "npm-run-all": "^4.1.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "^3.4.3",
+    "react-scripts": "^3.4.3"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.0.1",
+    "postcss-cli": "^8.0.0",
     "tailwindcss": "^1.8.10"
   },
-  "devDependencies": {},
   "scripts": {
-     "start": "npm run build:css && react-scripts start",
-    "build": "npm run build:css && react-scripts build",
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "build:css": "postcss src/tailwind.css -o src/styles/index.scss "
+    "build:styles": "postcss src/tailwind.css -o src/styles.css"
   },
   "author": "",
   "license": "ISC",
