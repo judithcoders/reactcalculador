@@ -40,7 +40,7 @@
   "postcss-cli": "^8.0.0",
   "tailwindcss": "^1.8.10"
  
- ## Implementacion
+ ## Implementación
  * Clonar el Proyecto
  * acceder carpeta del proyecto
  * npm install 
