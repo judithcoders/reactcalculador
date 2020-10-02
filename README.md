@@ -1,6 +1,8 @@
 
 # APLICACIÓN CALCULADORA
-> Se agrego una app para calcular lo siguiente.
+> Se agregó una app hecha en react para cada uno de los ejercicios. 
+> se realizó un algoritmo que permita implementar los tres puntos solicitados.
+> para ello se realizo la investigacion sobre el funcionamiento de lo que se esta pidiendo.
 
 # Inicio.  
 ![Screenshot](https://github.com/judithcoders/reactcalculador/blob/main/img/screenshot1.PNG)
@@ -19,14 +21,13 @@
 * Nodejs
 * TailwindCSS
 * Ecmascript
-* React
+* React Redux
 * Git
 * Heroku
 
 ## Herramientas de Trabajo.
 * Visual Code <https://code.visualstudio.com/>
 * Instalar Nodejs <https://nodejs.org/es/download/>
-
 
 ## Paquetes NPM
   "chokidar-cli": "^2.1.0",
