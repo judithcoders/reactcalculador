@@ -3,16 +3,16 @@
 > Se agrego una app para calcular lo siguiente.
 
 # Home.  
-![Screenshot](https://github.com/judithcoders/reactcalculador/blob/master/img/screenshot1.PNG)
+![Screenshot](https://github.com/judithcoders/reactcalculador/blob/main/img/screenshot1.PNG)
 
 ## Enmascarar el número de tarjeta de crédito.
-![Screenshot](https://github.com/judithcoders/reactcalculador/blob/master/img/screenshot2.PNG)
+![Screenshot](https://github.com/judithcoders/reactcalculador/blob/main/img/screenshot2.PNG)
 
 ## Numero ordinal
-![Screenshot](https://github.com/judithcoders/reactcalculador/blob/master/img/screenshot3.PNG)
+![Screenshot](https://github.com/judithcoders/reactcalculador/blob/main/img/screenshot3.PNG)
 
 ## Notación polaca inversa
-![Screenshot](https://github.com/judithcoders/reactcalculador/blob/master/img/screenshot4.PNG)
+![Screenshot](https://github.com/judithcoders/reactcalculador/blob/main/img/screenshot4.PNG)
 
 
 ## Tecnológias
