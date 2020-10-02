@@ -2,7 +2,7 @@
 # APLICACIÓN CALCULADORA
 > Se agrego una app para calcular lo siguiente.
 
-# Home.  
+# Inicio.  
 ![Screenshot](https://github.com/judithcoders/reactcalculador/blob/main/img/screenshot1.PNG)
 
 ## Enmascarar el número de tarjeta de crédito.
