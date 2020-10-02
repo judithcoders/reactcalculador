@@ -23,6 +23,10 @@
 * Git
 * Heroku
 
+## Herramientas de Trabajo.
+* Visual Code <https://code.visualstudio.com/>
+* Instalar Nodejs <https://nodejs.org/es/download/>
+
 
 ## Paquetes NPM
   "chokidar-cli": "^2.1.0",
@@ -35,5 +39,9 @@
   "postcss-cli": "^8.0.0",
   "tailwindcss": "^1.8.10"
  
- 
+ ## Implementacion
+ * Clonar el Proyecto
+ * acceder carpeta del proyecto
+ * npm install 
+ * npm start
 
